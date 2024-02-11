@@ -1,0 +1,24 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhilgovind02/chatAPP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhilgovind02/chatAPP/issues"
+  },
+  "homepage": "https://github.com/Akhilgovind02/chatAPP#readme",
+  "dependencies": {
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
